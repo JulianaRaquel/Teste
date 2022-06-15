@@ -1,0 +1,16 @@
+- Homepage
+- Fazer login e criar conta (Usuário e autenticação)
+   - Email
+   - Username
+   - Senha
+   - Editar perfil
+
+- Produtos
+    - thumb
+    - nome
+    - descrição
+    - categoria
+    - quantidade de compras
+    - data de criação
+
+- Barra de pesquisa
